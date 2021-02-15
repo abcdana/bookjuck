@@ -18,7 +18,7 @@ public class Index extends HttpServlet {
 		
 		RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/views/member/index.jsp");
 		dispatcher.forward(request, response);
-		
+		// git test 입니다
 	}
 
 }

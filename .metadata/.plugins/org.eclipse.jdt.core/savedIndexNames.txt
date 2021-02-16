@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jdt.core
+964909476.index
+2588422671.index
+2287017086.index
+4197525840.index
+2758598579.index

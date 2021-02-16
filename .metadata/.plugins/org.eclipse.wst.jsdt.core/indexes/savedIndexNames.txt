@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3260561489.index
+2290281711.index
+3508536493.index
+1256273082.index
+2934878592.index

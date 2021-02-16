@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1629311351.index
+/bookjuck/src
+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1960025143.index
+/bookjuck/src
+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/239239289.index
+/bookjuck/src
+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1663242758.index
+/bookjuck/src
+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2605320784.index
+/bookjuck/src
+/Users/ara/Documents/GitHub/bookjuck/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2668147067.index
+/bookjuck/src

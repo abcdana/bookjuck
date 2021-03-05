@@ -78,7 +78,7 @@
             </div>   -->
             
 
-           
+<%--            
             <%
 			      out.flush();
 			       RequestDispatcher drealtime = request.getRequestDispatcher("/common/realtimesearch.do");
@@ -86,7 +86,7 @@
 			   %>
        
             
-            
+             --%>
             
             
 

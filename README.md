@@ -96,7 +96,7 @@
 - 사진이 게시글의 메인이 되는 중고게시판 특성상 썸네일형 게시판을 만들어 사용자들의 편의성을 높였다.
 - 검색어를 통해 글쓴이id, 글제목, 글내용 검색이 가능하다.
 
-<img src="https://user-images.githubusercontent.com/74163296/112463446-9bec3180-8da5-11eb-9887-36ed9a698292.PNG" width="60%"> <img src="https://user-images.githubusercontent.com/74163296/112463449-9c84c800-8da5-11eb-8c5f-8de5af108d0d.PNG" width="48%"> <img src="https://user-images.githubusercontent.com/74163296/112463444-9b539b00-8da5-11eb-8315-5f46081b76e0.PNG" width="48%">  
+<img src="https://user-images.githubusercontent.com/74163296/112463446-9bec3180-8da5-11eb-9887-36ed9a698292.PNG" width="60%"> <img src="https://user-images.githubusercontent.com/74163296/112463449-9c84c800-8da5-11eb-8c5f-8de5af108d0d.PNG" width="48%"> <img src="https://user-images.githubusercontent.com/74163296/112463444-9b539b00-8da5-11eb-8315-5f46081b76e0.PNG" width="40%">  
 
 **📷글 작성 & 수정 & 삭제하기**
 - 게시글을 작성, 수정, 삭제할 수 있다.

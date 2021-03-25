@@ -96,11 +96,12 @@
 - 사진이 게시글의 메인이 되는 중고게시판 특성상 썸네일형 게시판을 만들어 사용자들의 편의성을 높였다.
 - 검색어를 통해 글쓴이id, 글제목, 글내용 검색이 가능하다.
 
-<img src="https://user-images.githubusercontent.com/74163296/112463444-9b539b00-8da5-11eb-8315-5f46081b76e0.PNG" width="33%"> <img src="https://user-images.githubusercontent.com/74163296/112463446-9bec3180-8da5-11eb-9887-36ed9a698292.PNG" width="33%"> <img src="https://user-images.githubusercontent.com/74163296/112463449-9c84c800-8da5-11eb-8c5f-8de5af108d0d.PNG" width="33%">
+<img src="https://user-images.githubusercontent.com/74163296/112463446-9bec3180-8da5-11eb-9887-36ed9a698292.PNG" width="60%"> <img src="https://user-images.githubusercontent.com/74163296/112463449-9c84c800-8da5-11eb-8c5f-8de5af108d0d.PNG" width="48%"> <img src="https://user-images.githubusercontent.com/74163296/112463444-9b539b00-8da5-11eb-8315-5f46081b76e0.PNG" width="48%">  
 
 **📷글 작성 & 수정 & 삭제하기**
 - 게시글을 작성, 수정, 삭제할 수 있다.
 - 이미지 파일을 업로드 할 경우 어떤 사진을 업로드 했는지 바로 확인할 수 있다.
+- 처음 글 작성을 할때는 상태가 거래중으로 고정되지만 글을 수정할때는 거래상태를 수정할 수 있다.
 
 <img src="https://user-images.githubusercontent.com/74163296/112463630-d48c0b00-8da5-11eb-935f-ae2161b5e2c4.PNG" width="63%"> <img src="https://user-images.githubusercontent.com/74163296/112463627-d3f37480-8da5-11eb-92f4-e5e840c3c8ea.PNG" width="35%"> 
 
